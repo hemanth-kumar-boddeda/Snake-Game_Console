@@ -26,29 +26,7 @@ Open the project in Visual Studio.
 Build and run the project.
 
 
-<h1>Output</h1>
-####################
-#                  #
-#                  #
-#                  #
-#                  #
-#                  #
-#                  #
-#                  #
-#                  #
-#                  #
-#                  #
-#                  #
-#                  #
-#                  #
-#                  #
-#                  #
-#                  #
-#                  #
-#        F         #
-#        O         #
-####################
-Score: 0
+
 
 
 
