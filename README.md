@@ -26,6 +26,31 @@ Open the project in Visual Studio.
 Build and run the project.
 
 
+<h1>Output</h1>
+####################
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#        F         #
+#        O         #
+####################
+Score: 0
+
+
 
 <h1>Enjoy the game!</h1>
 Have fun playing the game! Feel free to modify the code and add your own features.
