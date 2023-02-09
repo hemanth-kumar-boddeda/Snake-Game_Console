@@ -1,4 +1,6 @@
-C++ Snake Game
+<h1>C++ Snake Game</h1>
+
+
 This is a simple terminal-based Snake game implemented in C++. The game is played in a grid of characters, with the snake represented by the character 'O' and the fruit represented by the character 'F'.
 
 How to play
